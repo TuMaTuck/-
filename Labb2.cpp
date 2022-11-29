@@ -1,4 +1,4 @@
-//created by Mitsai Ruslan
+//created by Melnykov Dmytro
 #include <iostream>
 #include <stdio.h>
 #include <math.h>
