@@ -1,4 +1,4 @@
-//Created by Mitsai Ruslan IPZ-21008b
+//Created by Melnykov Dmytro
 #include <iostream>
 #include <locale.h>
 #include <math.h>
